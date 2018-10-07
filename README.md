@@ -1,2 +1,1 @@
-# FreeCodeCamp
-Collection of projects by FreeCodeCamp
+# Backend Challenges boilerplate - package.json

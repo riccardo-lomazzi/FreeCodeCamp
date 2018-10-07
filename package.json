@@ -1,0 +1,23 @@
+{
+	"author": "Riccardo Lomazzi",
+  "description" : "First project in Node.js",
+  "keywords" : ["First","project","Riccardo","freecodecamp"],
+  "license" : "Polimi",
+  "version" : "0.1",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0",
+    "moment" : "2.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
